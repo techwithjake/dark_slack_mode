@@ -20,5 +20,5 @@ sudo python3 makeitdark.py
 
 Use the following custom Slack sidebar theme to make it consistent:
 ```
-#000000,#000000,#00ff00,#00ff00,#00ff00,#00ff00,#31f700,#ff0000
+#000000,#000000,#61AFEF,#61AFEF,#61AFEF,#61AFEF,#61AFEF,#ff0000
 ```
